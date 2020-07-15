@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inclass06</string>
+    <string name="hint">Show Categories</string>
+    <string name="Loading">Loading...</string>
+    <string name="Go_button">Go</string>
+    <string name="Category">Category</string>
+</resources>
